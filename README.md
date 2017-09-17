@@ -1,6 +1,6 @@
 # Lab_02 - Responsive web design
 
-Name: _______________________________________
+Name: ____William Hundahl__________
 
 ## DUE: 17 Sep 2017 @ 11:59 pm
 
